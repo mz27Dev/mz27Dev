@@ -2,7 +2,11 @@
 
 I'm Mohamed, an aspiring high school researcher & developer with a passion of building software that solves real problems.
 
+I mostly work on - Python, Javascript, and C++.
 
+I also do some frontend design with tools like figmna and affinity.
+
+---
 <!--
 **mz27Dev/mz27Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
