@@ -4,7 +4,7 @@ I'm Mohamed, an aspiring high school researcher & developer with a passion of bu
 
 I mostly work on - Python, Javascript, and C++.
 
-I also do some frontend design with tools like figmna and affinity.
+I also do some frontend design with tools like Figmna and Affinity.
 
 ## Tools & Technologies 
 
@@ -12,7 +12,7 @@ I also do some frontend design with tools like figmna and affinity.
 - JavaScript
 - C++
 - R
-- Html
+- HTML
 - CSS
 
 ## Contact Me
