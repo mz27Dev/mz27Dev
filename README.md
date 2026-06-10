@@ -6,8 +6,6 @@ I mostly work on - Python, Javascript, and C++.
 
 I also do some frontend design with tools like figmna and affinity.
 
-***
-
 ## Tools & Technologies 
 
 - Python
