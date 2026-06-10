@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey there 👋
+
+I'm Mohamed, an aspiring high school researcher & developer with a passion of building software that solves real problems.
+
 
 <!--
 **mz27Dev/mz27Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
