@@ -11,7 +11,6 @@ I also do some frontend design with tools like Figmna and Affinity.
 - Python
 - JavaScript
 - C++
-- R
 - HTML
 - CSS
 
