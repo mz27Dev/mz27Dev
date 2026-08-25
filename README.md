@@ -2,7 +2,7 @@
 
 I'm Mohamed, an aspiring high school researcher & developer with a passion of building software that solves real problems.
 
-I mostly work on - Python, Javascript, and C++.
+I mostly work on - Python and Javascript.
 
 I also do some frontend design with tools like Figmna and Affinity.
 
