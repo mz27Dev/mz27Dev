@@ -12,6 +12,8 @@ I also do some frontend design with tools like Figmna and Affinity.
 - JavaScript
 - HTML
 - CSS
+  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## Contact Me
 
