@@ -1,23 +1,12 @@
-## Hey there 👋
+**About Me**
 
-I'm Mohamed, an aspiring high school researcher & developer with a passion of building software that solves real problems.
+I'm a high school student with interests in computer science, mathematics, and bioinformatics, with experience in software development, web development, robotics, and technical design.
 
-I mostly work on - Python and Javascript.
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,git,figma,latex)](https://skillicons.dev)
 
-I also do some frontend design with tools like Figmna and Affinity.
+---
 
-## Tools & Technologies 
-
-- Python
-- JavaScript
-- HTML
-- CSS
-  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-## Contact Me
-
-Feel free to reach out to me on my linkedin.
+**Connect: **[LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME/)
 
 <!--
 **mz27Dev/mz27Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
