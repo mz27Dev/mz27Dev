@@ -2,7 +2,7 @@
 
 I'm a high school student with interests in computer science, mathematics, and bioinformatics, with experience in software development, web development, robotics, and technical design.
 
-**Connect:** <a href="https://www.linkedin.com/in/mohamedzena/"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" /> </a>
+**Connect:** [LinkedIn](https://www.linkedin.com/in/mohamedzena/)
 
 ---
 
