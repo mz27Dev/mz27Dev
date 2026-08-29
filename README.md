@@ -10,9 +10,9 @@ I'm a high school student with interests in computer science, mathematics, and b
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,git,figma,latex)](https://skillicons.dev)
 
-- Languages: Python, Javascript, HTML, CSS
-- Technologies: PyGame, Git
-- Tools: Figma, Overleaf, Affinity,
+- Languages: Python, JavaScript, HTML, CSS
+- Technologies: Pygame, Git
+- Tools: Figma, Overleaf, Affinity
 - Engineering: Matlab, Fusion 360
 
 <!--
