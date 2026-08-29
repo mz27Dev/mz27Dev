@@ -6,7 +6,7 @@ I'm a high school student with interests in computer science, mathematics, and b
 
 ---
 
-**Connect: **[LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME/)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME/)
 
 <!--
 **mz27Dev/mz27Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
