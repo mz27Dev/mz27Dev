@@ -2,11 +2,12 @@
 
 I'm a high school student with interests in computer science, mathematics, and bioinformatics, with experience in software development, web development, robotics, and technical design.
 
-**Connect:** [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME/)
+**Connect:** <a href="https://www.linkedin.com/in/mohamedzena/"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" /> </a>
 
 ---
 
 **Core Skills**
+
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,git,figma,latex)](https://skillicons.dev)
 
 - Languages: Python, Javascript, HTML, CSS
