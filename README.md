@@ -2,9 +2,7 @@
 
 I'm a high school student with interests in computer science, mathematics, and bioinformatics, with experience in software development, web development, robotics, and technical design.
 
-**Connect** 
-
-[LinkedIn](https://www.linkedin.com/in/mohamedzena/)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/mohamedzena/)
 
 ---
 
